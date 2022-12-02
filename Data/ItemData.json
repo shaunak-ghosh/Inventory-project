@@ -1,0 +1,23 @@
+{
+    "Sword":{
+        "ItemCategoty": "Sword",
+        "ItemAttack": 4,
+        "ItemSpeed": 0.9,
+        "StackSize": 1,
+        "Description": "A simple iron sword"
+    },
+    "Axe":
+    {
+        "ItemCategoty": "Sword",
+        "ItemAttack": 3,
+        "ItemSpeed": 0.75,
+        "StackSize": 1,
+        "Description":"A simple iron axe"
+    },
+    "Coin":
+    {
+        "ItemCategoty": "Resource",
+        "StackSize": 99,
+        "Description":"Coins!!"
+    }
+}
